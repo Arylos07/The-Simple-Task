@@ -12,4 +12,4 @@ The branding of Tactical Gaming (TG) and Ragnarok Games are from old organisatio
 
 The source available here has a lot of data removed and will require rebuilding of the source. (such as libraries and saved and intermediate content was removed to reduce repository size)
 
-This repository does not include a build of the game. A build is available at [This repository](https://github.com/Arylos07/The-Simple-Task-Build)
+This repository does not include a build of the game.
